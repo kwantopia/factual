@@ -1,0 +1,439 @@
+4,Car Dealers and Leasing,2955
+5,Used Cars,1293
+6,Car Parts and Accessories,1989
+7,Car Wash and Detail,757
+8,Classic and Antique Car,29
+9,Maintenance and Repair,7862
+10,Oil and Lube,153
+11,Smog Check,1
+12,Tires,405
+13,Transmissions,145
+14,"Motorcycles, Mopeds and Scooters",414
+15,Repair,124
+16,Sales,138
+17,RVs and Motor Homes,134
+19,Towing,214
+20,Community and Government,41033
+21,Animal Shelters and Humane Societies,82
+22,Cemeteries,1109
+23,Day Care and Preschools,2886
+24,Disabled Persons Services,123
+25,Drug and Alcohol Services,34
+26,Education,9724
+27,Adult Education,4
+28,Art Lessons and Schools,272
+29,Colleges and Universities,819
+30,Computer Training,96
+31,Culinary Lessons and Schools,0
+32,Driving Schools,277
+33,Fraternities and Sororities,1
+34,Primary and Secondary Schools,3822
+35,Tutoring and Educational Services,401
+36,Vocational Schools,499
+37,Government Departments and Agencies,256
+38,Government Lobbyists,29
+39,Housing Assistance and Shelters,265
+40,Law Enforcement and Public Safety,799
+41,Rescue Services,0
+42,Fire Stations,273
+43,Police Stations,400
+44,Libraries,745
+45,Military,272
+46,Bases,0
+47,Organizations and Associations,5723
+48,Charities and Non-Profits,666
+49,Environmental,383
+50,Youth Organizations,144
+51,Post Offices,429
+52,Public and Social Services,5797
+53,Religious,6968
+54,Buddhist Temples,1
+55,Churches,5394
+56,Hindu Temples,0
+57,Mosques,1
+58,Synagogues,47
+59,Senior Citizen Services,153
+60,Retirement,74
+61,Utility Companies,474
+62,Healthcare,145232
+63,AIDS Resources,0
+64,Assisted Living Services,5429
+65,Caretakers,203
+66,Facilities and Nursing Homes,1318
+67,Blood Banks and Centers,1
+68,Chiropractors,2530
+69,Dentists,8589
+70,Emergency Services,796
+71,Ambulance,244
+72,"Holistic, Alternative and Naturopathic Medicine",1604
+73,Acupuncture,1330
+74,"Hospitals, Clinics and Medical Centers",3985
+75,Medical Supplies and Labs,2006
+76,Mental Health,29691
+77,Counseling and Therapy,6166
+78,Psychologists,4368
+79,Nurses,12805
+80,Pharmacies,3279
+81,Physical Therapy and Rehabilitation,9207
+82,Sports Medicine,3326
+83,Physicians,55564
+84,Anesthesiologists,2422
+85,Cardiologists,1442
+86,Dermatologists,870
+87,"Ear, Nose and Throat",296
+88,Family Medicine,2375
+89,Gastroenterologists,100
+90,General Surgery,968
+91,Internal Medicine,14650
+92,Neurologists,433
+93,Obstetricians and Gynecologists,2095
+94,Oncologists,379
+95,Ophthalmologists,1606
+96,Orthopedic Surgeons,1132
+97,Pathologists,841
+98,Pediatricians,4994
+99,Plastic Surgeons,386
+100,Psychiatrists,4024
+101,Radiologists,2197
+102,Respiratory,183
+103,Urologists,214
+104,Podiatrists,742
+105,Pregnancy and Sexual Health,117
+106,Weight Loss and Nutritionists,1451
+107,Landmarks,8566
+109,Gardens,12
+110,Historic and Protected Sites,2700
+111,Monuments and Memorials,55
+112,Natural,26
+113,Beaches,23
+114,Mountains,0
+115,Forests,0
+116,Lakes,2
+117,Rivers,0
+118,Parks,1520
+119,Natural Parks,1
+120,Picnic Areas,9
+121,Playgrounds,43
+122,Urban Parks,1265
+123,Retail,48275
+124,Adult,22
+125,Antiques,1053
+126,Arts and Crafts,412
+127,Auctions,137
+128,Beauty Products,461
+129,Bicycles,427
+130,Bookstores,1021
+131,Cards and Stationery,1065
+132,Children,132
+133,Computers and Electronics,3847
+134,Cameras,0
+135,Mobile Phones,741
+136,Video Games,23
+137,Construction Supplies,2409
+138,Convenience Stores,2065
+139,Costumes,31
+140,Dance and Music,502
+141,"Department Stores, Discount Stores",496
+142,Fashion,7645
+143,Clothing and Accessories,4359
+144,Jewelry and Watches,1989
+145,Shoes,1071
+146,Swimwear,0
+147,Flea Markets,30
+148,Florists,1558
+149,Food and Beverage,3665
+150,"Beer, Wine and Spirits",1752
+151,Candy Stores,357
+152,Cheese,3
+153,Chocolate,2
+154,Farmers' Markets,32
+155,Health and Diet Food,87
+156,Kosher,0
+157,Furniture and Home Decor,3298
+158,Gift and Novelty,1941
+159,Glasses and Optometrist,2385
+160,Hobby and Collectibles,532
+161,Luggage,78
+162,"Music, Video and DVD",970
+163,Newsstands,92
+164,Nurseries and Garden Centers,1142
+165,Outlet,79
+166,Pawn Shops,137
+167,Pets,2058
+168,Photos and Frames,299
+169,Shopping Centers and Malls,222
+170,Sporting Goods,1005
+171,Supermarkets and Groceries,2095
+172,Tobacco,162
+173,Toys,589
+174,Vintage and Thrift,151
+175,Warehouses and Wholesale Stores,69
+176,Wedding and Bridal,333
+178,Business and Strategy Consulting,3110
+179,Industrial Machinery and Vehicles,3549
+180,Logging and Sawmills,0
+181,Metals,1492
+182,Packaging,247
+183,Petroleum,379
+184,Plastics,480
+186,Rubber,21
+187,Scientific,14
+188,Security and Safety,1418
+189,Telecommunication Services,2117
+190,Textiles,492
+191,Water and Waste Management,958
+192,Welding,4
+193,Advertising and Marketing,4855
+194,Advertising Agencies and Media Buyers,651
+195,Creative Services,1678
+196,Direct Mail and Email Marketing Services,221
+197,Market Research and Consulting,767
+198,Online Advertising,16
+199,"Print, TV, Radio and Outdoor Advertising",70
+200,Promotional Items,144
+201,Public Relations,201
+202,Search Engine Marketing and Optimization,8
+203,"Writing, Copywriting and Technical Writing",65
+204,Agriculture and Forestry,1238
+206,Audiovisual,762
+207,Automation and Control Systems,69
+208,Chemicals and Gasses,556
+209,Computers,6298
+211,Electrical Equipment,601
+212,Employment Agencies,2497
+213,Engineering,1818
+214,Entertainment,1723
+215,Media,1283
+216,Equipment Rental,298
+218,ATMs,4238
+219,Financial,21989
+220,Accounting and Bookkeeping,5386
+221,Banking and Finance,8887
+223,Check Cashing,148
+224,Collections,89
+225,Financial Planning and Investments,3707
+227,Loans and Mortgages,1939
+228,Stock Brokers,2
+229,Student Aid and Grants,0
+230,Food and Beverage,925
+231,Catering,515
+232,Distribution,0
+233,Funeral Services,832
+234,Geological,9
+235,Home Improvement,41337
+236,Architects,2336
+237,Carpenters,1261
+238,Carpet and Flooring,2420
+239,Contractors,9018
+240,Bathrooms,10
+241,Deck and Patio,222
+242,Sewer,659
+243,Doors and Windows,987
+244,Electricians,3180
+245,"Fences, Fireplaces and Garage Doors",451
+246,Hardware and Services,931
+247,"Heating, Ventilating and Air Conditioning",2113
+248,Home Appliances,1216
+249,Home Inspection Services,38
+250,Housewares,80
+251,Interior Design,761
+252,Kitchens,108
+253,Landscaping and Gardeners,5070
+254,Lighting Fixtures,88
+255,Mobile Homes,85
+256,Movers,557
+257,Painting,1907
+258,Pest Control,1033
+259,Plumbing,3305
+260,Pools and Spas,310
+261,Roofers,969
+262,Storage,533
+263,Swimming Pool Maintenance and Services,60
+264,Tree Service,375
+265,Upholstery,45
+266,Human Resources,14
+267,Import and Export,455
+268,Leather,57
+269,Legal,26013
+270,Credit Counseling and Bankruptcy Services,17
+271,Immigration,13
+272,Insurance,5422
+273,Machine Shops,1416
+274,Management,4096
+275,Manufacturing,3158
+276,Paper,397
+277,Personal Care,17268
+278,"Dry Cleaning, Ironing and Laundry",2074
+279,Hair Removal,304
+280,Hair Salons and Barbers,3833
+281,Manicures and Pedicures,1151
+282,Massage Clinics and Therapists,1544
+283,Piercing,108
+284,Skin Care,183
+285,Spas,501
+286,Tanning Salons,618
+287,Tattooing,148
+288,"Printing, Copying and Signage",3642
+289,Professional Cleaning,3386
+290,Publishing,273
+291,Real Estate,14753
+292,Property Management,593
+293,Real Estate Agents,5053
+294,Real Estate Appraiser,538
+295,Real Estate Development and Title Companies,813
+296,"Apartments, Condos, and Houses",1908
+297,Boarding Houses,26
+298,Building and Land Surveyors,408
+299,Commercial Real Estate,59
+300,Corporate Housing,12
+301,Renewable Energy,0
+302,Repair Services,12
+303,"Shipping, Freight, and Material Transportation",2346
+304,Tailors,527
+305,Veterinarians,818
+306,Web Design and Development,405
+307,Wholesale,126
+309,Arts,1551
+310,Art Dealers and Galleries,795
+311,Museums,533
+312,Bars,1253
+313,Hotel Lounges,0
+314,Jazz and Blues Cafes,0
+315,Sports Bars,21
+316,Wine Bars,6
+317,Entertainment,1959
+318,Adult,41
+319,Arcades and Amusement Parks,169
+320,Billiard and Pool,33
+321,Bingo,4
+322,Bowling,107
+323,Carnivals,0
+324,Casinos and Gaming,13
+325,Circuses,0
+326,Dance Halls and Saloons,21
+327,Fairgrounds and Rodeos,0
+328,Go Carts,0
+329,Hookah Lounges,0
+330,Karaoke,17
+331,Miniature Golf,3
+332,Movie Theatres,181
+333,Music and Show Venues,1060
+334,Night Clubs,95
+335,Party Centers,0
+336,Psychics and Astrologers,95
+337,Ticket Sales,110
+338,Food and Dining,22438
+339,Bagels and Donuts,1436
+340,Bakeries,1133
+341,Breweries,31
+342,"Cafes, Coffee and Tea Houses",846
+343,Dessert,74
+344,Ice Cream Parlors,524
+345,Internet Cafes,11
+346,Juice Bars and Smoothies,21
+347,Restaurants,18358
+348,American,270
+349,Barbecue,72
+350,Buffets,0
+351,Burgers,82
+352,Chinese,370
+353,Delis,326
+354,Diners,38
+355,Fast Food,390
+356,French,24
+357,Indian,47
+358,Italian,209
+359,Japanese,50
+360,Korean,6
+361,Mexican,143
+362,Middle Eastern,5
+363,Pizza,2536
+364,Seafood,278
+365,Steakhouses,71
+366,Sushi,36
+367,Thai,109
+368,Vegan and Vegetarian,0
+369,Social Clubs,2
+370,Wineries and Vineyards,22
+371,"Zoos, Aquariums and Wildlife Sanctuaries",2
+372,Sports and Recreation,6767
+373,Athletic Fields,12
+374,Baseball,70
+375,Batting Ranges,0
+376,Basketball,2
+377,Combat Sports,561
+378,Cycling,35
+379,Dance,714
+380,Equestrian,85
+381,Football,3
+382,Golf,221
+383,Gun Ranges,91
+384,Gymnastics,113
+385,Gyms and Fitness Centers,2112
+386,Hockey,21
+387,Outdoors,560
+388,Campgrounds and RV Parks,287
+389,Hiking,0
+390,Hot Air Balloons,0
+391,Hunting and Fishing,202
+392,Rock Climbing,0
+393,Skydiving,0
+394,Paintball,0
+395,Personal Trainers,271
+396,Race Tracks,31
+397,Racquet Sports,41
+398,Racquetball,0
+399,Tennis,41
+400,Recreation Centers,175
+401,Running,0
+402,Skating,85
+403,Snow Sports,41
+404,Soccer,46
+405,Sports Clubs,4
+406,Stadiums and Arenas,45
+407,Swimming Pools,86
+408,Water Sports,611
+409,Boating,573
+410,Canoes and Kayaks,1
+411,Rafting,19
+412,Scuba Diving,2
+413,Swimming,5
+414,Yoga and Pilates,210
+415,Transportation,8128
+416,Airlines and Aviation Services,300
+417,Gas Stations,2210
+418,Parking,299
+419,Public Transportation Services,738
+420,Taxi and Car Services,3242
+421,Car and Truck Rentals,1442
+422,Charter Buses,248
+423,Limos and Chauffeurs,770
+424,Transport Hubs,1035
+425,Airports,40
+426,Bus Stations,0
+427,Heliports,73
+428,Ports,58
+429,Rail Stations,267
+430,Travel,4372
+431,Cruises,84
+432,Lodging,2508
+433,Bed and Breakfasts,410
+434,Cottages and Cabins,7
+435,Hostels,1
+436,Hotels and Motels,1926
+437,Lodges and Vacation Rentals,22
+438,Resorts,38
+439,Tourist Information and Services,228
+440,Travel Agents and Tour Operators,1187
+2,Automotive,14634
+3,Car Appraisers,15
+18,Salvage Yards,7
+108,Buildings and Structures,862
+177,Services and Supplies,198140
+185,Refrigeration and Ice,71
+205,Art Restoration,1
+210,Corporate HQ,0
+217,Events and Event Planning,374
+222,Business Brokers and Franchises,165
+226,Fund Raising,29
+308,Social,28626

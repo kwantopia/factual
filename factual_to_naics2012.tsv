@@ -1,0 +1,440 @@
+factual_id	factual_description	mapping_type	NAICS_id	NAICS_description	
+4	Car Dealers and Leasing	NM	441110	New Car Dealers
+5	Used Cars	CR	44112	Used Car Dealers
+6	Car Parts and Accessories	VM	441310	Automotive Parts and Accessories Stores
+7	Car Wash and Detail	CR	811192	Car Washes
+8	Classic and Antique Car	NM	441120	Used Car Dealers
+9	Maintenance and Repair	CR	811111	General Automotive Repair
+10	Oil and Lube	CR	811191	Automotive Oil Change and Lubrication Shops
+11	Smog Check	NM	811112	Automotive Exhaust System Repair
+12	Tires	NM	441320	Tire Dealers
+13	Transmissions	CR	811113	Automotive Transmission Repair
+14	"Motorcycles, Mopeds and Scooters"	VM	44122	Motorcycle, Boat, and Other Motor Vehicle Dealers
+15	Repair	NM	811198	All Other Automotive Repair and Maintenance
+16	Sales	NM	44122	Motorcycle, Boat, and Other Motor Vehicle Dealers
+17	RVs and Motor Homes	VM	441210	Recreational Vehicle Dealers
+19	Towing	CR	488410	Motor Vehicle Towing
+20	Community and Government	NM	92	Public Administration
+21	Animal Shelters and Humane Societies	NM	813319	Other Social Advocacy Organizations
+22	Cemeteries	CR	812220	Cemeteries and Crematories
+23	Day Care and Preschools	CR	624410	Child Day Care Services
+24	Disabled Persons Services	CR	62412	Services for the Elderly and Persons with Disabilities
+25	Drug and Alcohol Services	CR	621420	Outpatient Mental Health and Substance Abuse Centers
+26	Education	CR	61	Educational Services
+27	Adult Education	NM	6115	Technical and Trade Schools
+28	Art Lessons and Schools	CR	611610	Fine Arts Schools
+29	Colleges and Universities	CR	61131	Colleges, Universities, and Professional Schools
+30	Computer Training	CR	611420	Computer Training
+31	Culinary Lessons and Schools	NM	6116	Other Schools and Instruction
+32	Driving Schools	CR	611692	Automobile Driving Schools
+33	Fraternities and Sororities	NM	721310	Rooming and Boarding Houses
+34	Primary and Secondary Schools	CR	611110	Elementary and Secondary Schools
+35	Tutoring and Educational Services	CR	611691	Exam Preparation and Tutoring
+36	Vocational Schools	CR	611519	Other Technical and Trade Schools
+37	Government Departments and Agencies	NM	9211	Executive, Legislative, and Other General Government Support
+38	Government Lobbyists	NM	92119	Other General Government Support
+39	Housing Assistance and Shelters	NM	925	Administration of Housing Programs, Urban Planning, and Community Development
+40	Law Enforcement and Public Safety	CR	922	Justice, Public Order, and Safety Activities
+41	Rescue Services	NM	92219	Other Justice, Public Order, and Safety Activities
+42	Fire Stations	CR	92216	Fire Protection
+43	Police Stations	CR	92212	Police Protection
+44	Libraries	CR	519120	Libraries and Archives
+45	Military	NM	9281	National Security and International Affairs
+46	Bases	NM	9281	National Security and International Affairs
+47	Organizations and Associations	CR	813410	Civic and Social Organizations
+48	Charities and Non-Profits	NM	813	Religious, Grantmaking, Civic, Professional, and Similar Organizations
+49	Environmental	NM	8133	Social Advocacy Organizations
+50	Youth Organizations	NM	81399	Other Similar Organizations (except Business, Professional, Labor, and Political Organizations)
+51	Post Offices	CR	491110	Postal Service
+52	Public and Social Services	CR	624	Social Assistance
+53	Religious	CR	8131	Religious Organizations
+54	Buddhist Temples	NM	8131	Religious Organizations
+55	Churches	NM	8131	Religious Organizations
+56	Hindu Temples	NM	8131	Religious Organizations
+57	Mosques	NM	8131	Religious Organizations
+58	Synagogues	NM	8131	Religious Organizations
+59	Senior Citizen Services	CR	62412	Services for the Elderly and Persons with Disabilities
+60	Retirement	NM	62331	Continuing Care Retirement Communities and Assisted Living Facilities for the Elderly
+61	Utility Companies	CR	221	Utilities
+62	Healthcare	NM	621	Ambulatory Health Care Services
+63	AIDS Resources	NM	6219	Other Ambulatory Health Care Services
+64	Assisted Living Services	CR	623312	Assisted Living Facilities for the Elderly
+65	Caretakers	NM	62412	Services for the Elderly and Persons with Disabilities
+66	Facilities and Nursing Homes	CR	623	Nursing and Residential Care Facilities
+67	Blood Banks and Centers	CR	621991	Blood and Organ Banks
+68	Chiropractors	CR	62131	Offices of Chiropractors
+69	Dentists	CR	6212	Offices of Dentists
+70	Emergency Services	NM	624230	Emergency and Other Relief Services
+71	Ambulance	CR	62191	Ambulance Services
+72	"Holistic, Alternative and Naturopathic Medicine"	NM	6213	Offices of Other Health Practitioners
+73	Acupuncture	NM	6213	Offices of Other Health Practitioners
+74	"Hospitals, Clinics and Medical Centers"	CR	622	Hospitals
+75	Medical Supplies and Labs	VM	33911	Medical Equipment and Supplies Manufacturing
+76	Mental Health	CR	62133	Offices of Mental Health Practitioners (except Physicians)
+77	Counseling and Therapy	NM	62133	Offices of Mental Health Practitioners (except Physicians)
+78	Psychologists	NM	62133	Offices of Mental Health Practitioners (except Physicians)
+79	Nurses	NM	6219	Other Ambulatory Health Care Services
+80	Pharmacies	CR	446110	Pharmacies and Drug Stores
+81	Physical Therapy and Rehabilitation	NM	62139	Offices of All Other Health Practitioners
+82	Sports Medicine	NM	62139	Offices of All Other Health Practitioners
+83	Physicians	CR	62111	Offices of Physicians
+84	Anesthesiologists	NM	62139	Offices of All Other Health Practitioners
+85	Cardiologists	NM	62139	Offices of All Other Health Practitioners
+86	Dermatologists	NM	62139	Offices of All Other Health Practitioners
+87	"Ear, Nose and Throat"	NM	62139	Offices of All Other Health Practitioners
+88	Family Medicine	NM	62139	Offices of All Other Health Practitioners
+89	Gastroenterologists	NM	62139	Offices of All Other Health Practitioners
+90	General Surgery	NM	62139	Offices of All Other Health Practitioners
+91	Internal Medicine	NM	62139	Offices of All Other Health Practitioners
+92	Neurologists	NM	62139	Offices of All Other Health Practitioners
+93	Obstetricians and Gynecologists	NM	62139	Offices of All Other Health Practitioners
+94	Oncologists	NM	62139	Offices of All Other Health Practitioners
+95	Ophthalmologists	NM	62139	Offices of All Other Health Practitioners
+96	Orthopedic Surgeons	NM	62139	Offices of All Other Health Practitioners
+97	Pathologists	NM	62139	Offices of All Other Health Practitioners
+98	Pediatricians	NM	62139	Offices of All Other Health Practitioners
+99	Plastic Surgeons	NM	62139	Offices of All Other Health Practitioners
+100	Psychiatrists	NM	62139	Offices of All Other Health Practitioners
+101	Radiologists	NM	62139	Offices of All Other Health Practitioners
+102	Respiratory	NM	62139	Offices of All Other Health Practitioners
+103	Urologists	NM	62139	Offices of All Other Health Practitioners
+104	Podiatrists	CR	621391	Offices of Podiatrists
+105	Pregnancy and Sexual Health	NM	6219	Other Ambulatory Health Care Services
+106	Weight Loss and Nutritionists	CR	812191	Diet and Weight Reducing Centers
+107	Landmarks	NM	712	Museums, Historical Sites, and Similar Institutions
+109	Gardens	CR	71213	Zoos and Botanical Gardens
+110	Historic and Protected Sites	CR	712120	Historical Sites
+111	Monuments and Memorials	NM	7121	Museums, Historical Sites, and Similar Institutions
+112	Natural	CR	71219	Nature Parks and Other Similar Institutions
+113	Beaches	NM	71219	Nature Parks and Other Similar Institutions
+114	Mountains	NM	71219	Nature Parks and Other Similar Institutions
+115	Forests	NM	71219	Nature Parks and Other Similar Institutions
+116	Lakes	NM	71219	Nature Parks and Other Similar Institutions
+117	Rivers	NM	71219	Nature Parks and Other Similar Institutions
+118	Parks	CR	71219	Nature Parks and Other Similar Institutions
+119	Natural Parks	CR	71219	Nature Parks and Other Similar Institutions
+120	Picnic Areas	NM	71219	Nature Parks and Other Similar Institutions
+121	Playgrounds	NM	71219	Nature Parks and Other Similar Institutions
+122	Urban Parks	NM	71219	Nature Parks and Other Similar Institutions
+123	Retail	CR	44-45	Retail Trade
+124	Adult	NM	453	Miscellaneous Store Retailers
+125	Antiques	NM	453	Miscellaneous Store Retailers
+126	Arts and Crafts	NM	453	Miscellaneous Store Retailers
+127	Auctions	NM	454112	Electronic Auctions
+128	Beauty Products	CR	44612	Cosmetics, Beauty Supplies, and Perfume Stores
+129	Bicycles	NM	45111	Sporting Goods Stores
+130	Bookstores	CR	451211	Book Stores
+131	Cards and Stationery	CR	453210	Office Supplies and Stationery Stores
+132	Children	NM	448130	Children's and Infants' Clothing Stores
+133	Computers and Electronics	VM	443142	Electronics Stores
+134	Cameras	VM	443142	Electronics Stores
+135	Mobile Phones	VM	33421	Telephone Apparatus Manufacturing
+136	Video Games	VM	45112	Hobby, Toy, and Game Stores
+137	Construction Supplies	CR	4441	Building Material and Supplies Dealers
+138	Convenience Stores	CR	445120	Convenience Stores
+139	Costumes	NM	4539	Other Miscellaneous Store Retailers
+140	Dance and Music	NM	4539	Other Miscellaneous Store Retailers
+141	"Department Stores, Discount Stores"	CR	45211	Department Stores
+142	Fashion	CR	448	Clothing and Clothing Accessories Stores
+143	Clothing and Accessories	CR	448	Clothing and Clothing Accessories Stores
+144	Jewelry and Watches	CR	44831	Jewelry Stores
+145	Shoes	CR	44821	Shoe Stores
+146	Swimwear	NM	45111	Sporting Goods Stores
+147	Flea Markets	NM	4533	Used Merchandise Stores
+148	Florists	CR	4531	Florists
+149	Food and Beverage	VM	445	Food and Beverage Stores
+150	"Beer, Wine and Spirits"	VM	44531	Beer, Wine, and Liquor Stores
+151	Candy Stores	VM	445292	Confectionery and Nut Stores
+152	Cheese	VM	311513	Cheese Manufacturing
+153	Chocolate	VM	31135	Chocolate and Confectionery Manufacturing
+154	Farmers' Markets	NM	445230	Fruit and Vegetable Markets
+155	Health and Diet Food	VM	446191	Food (Health) Supplement Stores
+156	Kosher	NM	4452	Specialty Food Stores
+157	Furniture and Home Decor	CR	442	Furniture and Home Furnishings Stores
+158	Gift and Novelty	CR	45322	Gift, Novelty, and Souvenir Stores
+159	Glasses and Optometrist	NM	4539	Other Miscellaneous Store Retailers
+160	Hobby and Collectibles	CR	45112	Hobby, Toy, and Game Stores
+161	Luggage	CR	44832	Luggage and Leather Goods Stores
+162	"Music, Video and DVD"	NM	4539	Other Miscellaneous Store Retailers
+163	Newsstands	CR	451212	News Dealers and Newsstands
+164	Nurseries and Garden Centers	CR	44422	Nursery, Garden Center, and Farm Supply Stores
+165	Outlet	NM	4539	Other Miscellaneous Store Retailers
+166	Pawn Shops	NM	4533	Used Merchandise Stores
+167	Pets	CR	453910	Pet and Pet Supplies Stores
+168	Photos and Frames	NM	4539	Other Miscellaneous Store Retailers
+169	Shopping Centers and Malls	NM	4539	Other Miscellaneous Store Retailers
+170	Sporting Goods	CR	45111	Sporting Goods Stores
+171	Supermarkets and Groceries	CR	445110	Supermarkets and Other Grocery (except Convenience) Stores
+172	Tobacco	CR	453991	Tobacco Stores
+173	Toys	CR	45112	Hobby, Toy, and Game Stores
+174	Vintage and Thrift	NM	44112	Used Car Dealers
+175	Warehouses and Wholesale Stores	NM	4539	Other Miscellaneous Store Retailers
+176	Wedding and Bridal	NM	4539	Other Miscellaneous Store Retailers
+178	Business and Strategy Consulting	CR	54161	Management Consulting Services
+179	Industrial Machinery and Vehicles	NM	333	Machinery Manufacturing
+180	Logging and Sawmills	NM	113	Forestry and Logging
+181	Metals	NM	332	Fabricated Metal Product Manufacturing
+182	Packaging	CR	56191	Packaging and Labeling Services
+183	Petroleum	NM	3241	Petroleum and Coal Products Manufacturing
+184	Plastics	CR	3261	Plastics Product Manufacturing
+186	Rubber	CR	3262	Rubber Product Manufacturing
+187	Scientific	NM	5417	Scientific Research and Development Services
+188	Security and Safety	NM	5616	Investigation and Security Services
+189	Telecommunication Services	CR	517	Telecommunications
+190	Textiles	VM	313	Textile Mills
+191	Water and Waste Management	CR	562	Waste Management and Remediation Services
+192	Welding	NM	333992	Welding and Soldering Equipment Manufacturing
+193	Advertising and Marketing	CR	5418	Advertising, Public Relations, and Related Services
+194	Advertising Agencies and Media Buyers	CR	54181	Advertising Agencies
+195	Creative Services	VM	54181	Advertising Agencies
+196	Direct Mail and Email Marketing Services	CR	54186	Direct Mail Advertising
+197	Market Research and Consulting	CR	54191	Marketing Research and Public Opinion Polling
+198	Online Advertising	NM	541890	Other Services Related to Advertising
+199	"Print, TV, Radio and Outdoor Advertising"	CR	541850	Outdoor Advertising
+200	Promotional Items	NM	54189	Other Services Related to Advertising
+201	Public Relations	CR	541820	Public Relations Agencies
+202	Search Engine Marketing and Optimization	NM	54189	Other Services Related to Advertising
+203	"Writing, Copywriting and Technical Writing"	NM	54189	Other Services Related to Advertising
+204	Agriculture and Forestry	NM	11	Agriculture, Forestry, Fishing and Hunting
+206	Audiovisual	NM	512	Motion Picture and Sound Recording Industries
+207	Automation and Control Systems	NM	334519	Other Measuring and Controlling Device Manufacturing
+208	Chemicals and Gasses	CR	325	Chemical Manufacturing
+209	Computers	NM	5415	Computer Systems Design and Related Services
+211	Electrical Equipment	VM	3353	Electrical Equipment Manufacturing
+212	Employment Agencies	CR	561311	Employment Placement Agencies
+213	Engineering	CR	541330	Engineering Services
+214	Entertainment	NM	71	Arts, Entertainment, and Recreation
+215	Media	NM	515	Broadcasting (except Internet)
+216	Equipment Rental	CR	5324	Commercial and Industrial Machinery and Equipment Rental and Leasing
+218	ATMs	NM	522	Credit Intermediation and Related Activities
+219	Financial	CR	52	Finance and Insurance
+220	Accounting and Bookkeeping	CR	54121	Accounting, Tax Preparation, Bookkeeping, and Payroll Services
+221	Banking and Finance	NM	522	Credit Intermediation and Related Activities
+223	Check Cashing	NM	522291	Consumer Lending
+224	Collections	CR	561440	Collection Agencies
+225	Financial Planning and Investments	NM	523	Securities, Commodity Contracts, and Other Financial Investments and Related Activities
+227	Loans and Mortgages	NM	52231	Mortgage and Nonmortgage Loan Brokers
+228	Stock Brokers	CR	523120	Securities Brokerage
+229	Student Aid and Grants	NM	522291	Consumer Lending
+230	Food and Beverage	CR	722	Food Services and Drinking Places
+231	Catering	CR	72232	Caterers
+232	Distribution	CR	4244	Grocery and Related Product Merchant Wholesalers
+233	Funeral Services	CR	81221	Funeral Homes and Funeral Services
+234	Geological	NM	541330	Engineering Services
+235	Home Improvement	CR	238	Specialty Trade Contractors
+236	Architects	CR	541310	Architectural Services
+237	Carpenters	CR	23835	Finish Carpentry Contractors
+238	Carpet and Flooring	CR	238330	Flooring Contractors
+239	Contractors	NM	2389	Other Specialty Trade Contractors
+240	Bathrooms	NM	2389	Other Specialty Trade Contractors
+241	Deck and Patio	NM	2389	Other Specialty Trade Contractors
+242	Sewer	CR	23711	Water and Sewer Line and Related Structures Construction
+243	Doors and Windows	NM	2389	Other Specialty Trade Contractors
+244	Electricians	CR	23821	Electrical Contractors and Other Wiring Installation Contractors
+245	"Fences, Fireplaces and Garage Doors"	NM	2389	Other Specialty Trade Contractors
+246	Hardware and Services	NM	44413	Hardware Stores
+247	"Heating, Ventilating and Air Conditioning"	CR	23822	Plumbing, Heating, and Air-Conditioning Contractors
+248	Home Appliances	VM	443141	Household Appliance Stores
+249	Home Inspection Services	NM	54135	Building Inspection Services
+250	Housewares	VM	4422	Home Furnishings Stores
+251	Interior Design	CR	541410	Interior Design Services
+252	Kitchens	NM	23822	Plumbing, Heating, and Air-Conditioning Contractors
+253	Landscaping and Gardeners	CR	561730	Landscaping Services
+254	Lighting Fixtures	VM	33512	Lighting Fixture Manufacturing
+255	Mobile Homes	VM	45393	Manufactured (Mobile) Home Dealers
+256	Movers	NM	48421	Used Household and Office Goods Moving
+257	Painting	CR	23832	Painting and Wall Covering Contractors
+258	Pest Control	CR	56171	Exterminating and Pest Control Services
+259	Plumbing	CR	23822	Plumbing, Heating, and Air-Conditioning Contractors
+260	Pools and Spas	NM	238990	All Other Specialty Trade Contractors
+261	Roofers	CR	23816	Roofing Contractors
+262	Storage	NM	493	Warehousing and Storage
+263	Swimming Pool Maintenance and Services	NM	56173	Landscaping Services
+264	Tree Service	NM	56173	Landscaping Services
+265	Upholstery	CR	337121	Upholstered Household Furniture Manufacturing
+266	Human Resources	CR	541612	Human Resources Consulting Services
+267	Import and Export	NM	42	Wholesale Trade
+268	Leather	NM	316	Leather and Allied Product Manufacturing
+269	Legal	CR	5411	Legal Services
+270	Credit Counseling and Bankruptcy Services	NM	522390	Other Activities Related to Credit Intermediation
+271	Immigration	NM	928120	International Affairs
+272	Insurance	CR	524	Insurance Carriers and Related Activities
+273	Machine Shops	CR	332710	Machine Shops
+274	Management	CR	551	Management of Companies and Enterprises
+275	Manufacturing	CR	31-33	Manufacturing
+276	Paper	NM	322	Paper Manufacturing
+277	Personal Care	CR	8121	Personal Care Services
+278	"Dry Cleaning, Ironing and Laundry"	CR	8123	Drycleaning and Laundry Services
+279	Hair Removal	NM	81211	Hair, Nail, and Skin Care Services
+280	Hair Salons and Barbers	CR	812112	Beauty Salons
+281	Manicures and Pedicures	CR	812113	Nail Salons
+282	Massage Clinics and Therapists	NM	81219	Other Personal Care Services
+283	Piercing	NM	81219	Other Personal Care Services
+284	Skin Care	CR	81211	Hair, Nail, and Skin Care Services
+285	Spas	NM	81219	Other Personal Care Services
+286	Tanning Salons	NM	81219	Other Personal Care Services
+287	Tattooing	NM	81219	Other Personal Care Services
+288	"Printing, Copying and Signage"	NM	561439	Other Business Service Centers (including Copy Shops)
+289	Professional Cleaning	CR	561720	Janitorial Services
+290	Publishing	CR	511	Publishing Industries (except Internet)
+291	Real Estate	CR	531	Real Estate
+292	Property Management	CR	53131	Real Estate Property Managers
+293	Real Estate Agents	CR	53121	Offices of Real Estate Agents and Brokers
+294	Real Estate Appraiser	CR	53132	Offices of Real Estate Appraisers
+295	Real Estate Development and Title Companies	NM	5313	Activities Related to Real Estate
+296	"Apartments, Condos, and Houses"	NM	721	Accommodation
+297	Boarding Houses	CR	72131	Rooming and Boarding Houses
+298	Building and Land Surveyors	CR	541370	Surveying and Mapping (except Geophysical) Services
+299	Commercial Real Estate	NM	531	Real Estate
+300	Corporate Housing	NM	721	Accommodation
+301	Renewable Energy	NM	22111	Electric Power Generation
+302	Repair Services	CR	811	Repair and Maintenance
+303	"Shipping, Freight, and Material Transportation"	NM	4885	Freight Transportation Arrangement
+304	Tailors	NM	31521	Cut and Sew Apparel Contractors
+305	Veterinarians	CR	541940	Veterinary Services
+306	Web Design and Development	NM	541511	Custom Computer Programming Services
+307	Wholesale	CR	42	Wholesale Trade
+309	Arts	NM	7111	Performing Arts Companies
+310	Art Dealers and Galleries	CR	453920	Art Dealers
+311	Museums	CR	71211	Museums
+312	Bars	CR	7224	Drinking Places (Alcoholic Beverages)
+313	Hotel Lounges	NM	7224	Drinking Places (Alcoholic Beverages)
+314	Jazz and Blues Cafes	NM	7224	Drinking Places (Alcoholic Beverages)
+315	Sports Bars	NM	7224	Drinking Places (Alcoholic Beverages)
+316	Wine Bars	NM	7224	Drinking Places (Alcoholic Beverages)
+317	Entertainment	CR	71	Arts, Entertainment, and Recreation
+318	Adult	NM	7139	Other Amusement and Recreation Industries
+319	Arcades and Amusement Parks	CR	7131	Amusement Parks and Arcades
+320	Billiard and Pool	NM	7139	Other Amusement and Recreation Industries
+321	Bingo	NM	7139	Other Amusement and Recreation Industries
+322	Bowling	CR	71395	Bowling Centers
+323	Carnivals	NM	7131	Amusement Parks and Arcades
+324	Casinos and Gaming	CR	713210	Casinos (except Casino Hotels)
+325	Circuses	NM	7139	Other Amusement and Recreation Industries
+326	Dance Halls and Saloons	NM	7224	Drinking Places (Alcoholic Beverages)
+327	Fairgrounds and Rodeos	NM	7139	Other Amusement and Recreation Industries
+328	Go Carts	NM	7139	Other Amusement and Recreation Industries
+329	Hookah Lounges	NM	7139	Other Amusement and Recreation Industries
+330	Karaoke	NM	7139	Other Amusement and Recreation Industries
+331	Miniature Golf	NM	7139	Other Amusement and Recreation Industries
+332	Movie Theatres	CR	512131	Motion Picture Theaters (except Drive-Ins)
+333	Music and Show Venues	NM	71113	Musical Groups and Artists
+334	Night Clubs	NM	7224	Drinking Places (Alcoholic Beverages)
+335	Party Centers	NM	7139	Other Amusement and Recreation Industries
+336	Psychics and Astrologers	NM	7139	Other Amusement and Recreation Industries
+337	Ticket Sales	NM	711	Performing Arts, Spectator Sports, and Related Industries
+338	Food and Dining	CR	722	Food Services and Drinking Places
+339	Bagels and Donuts	NM	72251	Restaurants and Other Eating Places
+340	Bakeries	NM	311811	Retail Bakeries
+341	Breweries	CR	312120	Breweries
+342	"Cafes, Coffee and Tea Houses"	NM	72251	Restaurants and Other Eating Places
+343	Dessert	NM	72251	Restaurants and Other Eating Places
+344	Ice Cream Parlors	NM	72251	Restaurants and Other Eating Places
+345	Internet Cafes	NM	72251	Restaurants and Other Eating Places
+346	Juice Bars and Smoothies	NM	72251	Restaurants and Other Eating Places
+347	Restaurants	CR	7225	Restaurants and Other Eating Places
+348	American	NM	7225	Restaurants and Other Eating Places
+349	Barbecue	NM	7225	Restaurants and Other Eating Places
+350	Buffets	NM	72251	Restaurants and Other Eating Places
+351	Burgers	NM	7225	Restaurants and Other Eating Places
+352	Chinese	NM	7225	Restaurants and Other Eating Places
+353	Delis	NM	7225	Restaurants and Other Eating Places
+354	Diners	NM	7225	Restaurants and Other Eating Places
+355	Fast Food	NM	7225	Restaurants and Other Eating Places
+356	French	NM	7225	Restaurants and Other Eating Places
+357	Indian	NM	7225	Restaurants and Other Eating Places
+358	Italian	NM	7225	Restaurants and Other Eating Places
+359	Japanese	NM	7225	Restaurants and Other Eating Places
+360	Korean	NM	7225	Restaurants and Other Eating Places
+361	Mexican	NM	7225	Restaurants and Other Eating Places
+362	Middle Eastern	NM	7225	Restaurants and Other Eating Places
+363	Pizza	NM	7225	Restaurants and Other Eating Places
+364	Seafood	NM	7225	Restaurants and Other Eating Places
+365	Steakhouses	NM	7225	Restaurants and Other Eating Places
+366	Sushi	NM	7225	Restaurants and Other Eating Places
+367	Thai	NM	7225	Restaurants and Other Eating Places
+368	Vegan and Vegetarian	NM	7225	Restaurants and Other Eating Places
+369	Social Clubs	NM	7224	Drinking Places (Alcoholic Beverages)
+370	Wineries and Vineyards	CR	31213	Wineries
+371	"Zoos, Aquariums and Wildlife Sanctuaries"	CR	71213	Zoos and Botanical Gardens
+372	Sports and Recreation	NM	7139	Other Amusement and Recreation Industries
+373	Athletic Fields	NM	7139	Other Amusement and Recreation Industries
+374	Baseball	NM	7139	Other Amusement and Recreation Industries
+375	Batting Ranges	NM	7139	Other Amusement and Recreation Industries
+376	Basketball	NM	7139	Other Amusement and Recreation Industries
+377	Combat Sports	NM	7139	Other Amusement and Recreation Industries
+378	Cycling	NM	7139	Other Amusement and Recreation Industries
+379	Dance	CR	711120	Dance Companies
+380	Equestrian	NM	7139	Other Amusement and Recreation Industries
+381	Football	NM	7139	Other Amusement and Recreation Industries
+382	Golf	CR	713910	Golf Courses and Country Clubs
+383	Gun Ranges	NM	7139	Other Amusement and Recreation Industries
+384	Gymnastics	NM	7139	Other Amusement and Recreation Industries
+385	Gyms and Fitness Centers	CR	713940	Fitness and Recreational Sports Centers
+386	Hockey	NM	7139	Other Amusement and Recreation Industries
+387	Outdoors	NM	7139	Other Amusement and Recreation Industries
+388	Campgrounds and RV Parks	CR	721211	RV (Recreational Vehicle) Parks and Campgrounds
+389	Hiking	NM	7139	Other Amusement and Recreation Industries
+390	Hot Air Balloons	NM	7139	Other Amusement and Recreation Industries
+391	Hunting and Fishing	NM	7139	Other Amusement and Recreation Industries
+392	Rock Climbing	NM	7139	Other Amusement and Recreation Industries
+393	Skydiving	NM	7139	Other Amusement and Recreation Industries
+394	Paintball	NM	7139	Other Amusement and Recreation Industries
+395	Personal Trainers	NM	7139	Other Amusement and Recreation Industries
+396	Race Tracks	CR	711212	Racetracks
+397	Racquet Sports	NM	7139	Other Amusement and Recreation Industries
+398	Racquetball	NM	7139	Other Amusement and Recreation Industries
+399	Tennis	NM	7139	Other Amusement and Recreation Industries
+400	Recreation Centers	CR	713940	Fitness and Recreational Sports Centers
+401	Running	NM	7139	Other Amusement and Recreation Industries
+402	Skating	NM	7139	Other Amusement and Recreation Industries
+403	Snow Sports	NM	7139	Other Amusement and Recreation Industries
+404	Soccer	NM	7139	Other Amusement and Recreation Industries
+405	Sports Clubs	CR	711211	Sports Teams and Clubs
+406	Stadiums and Arenas	NM	71121	Spectator Sports
+407	Swimming Pools	NM	7139	Other Amusement and Recreation Industries
+408	Water Sports	NM	7139	Other Amusement and Recreation Industries
+409	Boating	NM	7139	Other Amusement and Recreation Industries
+410	Canoes and Kayaks	NM	7139	Other Amusement and Recreation Industries
+411	Rafting	NM	7139	Other Amusement and Recreation Industries
+412	Scuba Diving	NM	7139	Other Amusement and Recreation Industries
+413	Swimming	NM	7139	Other Amusement and Recreation Industries
+414	Yoga and Pilates	NM	7139	Other Amusement and Recreation Industries
+415	Transportation	NM	481111	Scheduled Passenger Air Transportation
+416	Airlines and Aviation Services	NM	481111	Scheduled Passenger Air Transportation
+417	Gas Stations	CR	447	Gasoline Stations
+418	Parking	CR	812930	Parking Lots and Garages
+419	Public Transportation Services	CR	485	Transit and Ground Passenger Transportation
+420	Taxi and Car Services	CR	4853	Taxi and Limousine Service
+421	Car and Truck Rentals	CR	532111	Passenger Car Rental
+422	Charter Buses	CR	48551	Charter Bus Industry
+423	Limos and Chauffeurs	CR	485320	Limousine Service
+424	Transport Hubs	NM	488	Support Activities for Transportation
+425	Airports	CR	48811	Airport Operations
+426	Bus Stations	NM	485210	Interurban and Rural Bus Transportation
+427	Heliports	NM	488119	Other Airport Operations
+428	Ports	CR	488310	Port and Harbor Operations
+429	Rail Stations	NM	48211	Rail Transportation
+430	Travel	NM	56151	Travel Agencies
+431	Cruises	NM	483112	Deep Sea Passenger Transportation
+432	Lodging	CR	7211	Traveler Accommodation
+433	Bed and Breakfasts	CR	721191	Bed-and-Breakfast Inns
+434	Cottages and Cabins	NM	72119	Other Traveler Accommodation
+435	Hostels	NM	72119	Other Traveler Accommodation
+436	Hotels and Motels	CR	72111	Hotels (except Casino Hotels) and Motels
+437	Lodges and Vacation Rentals	NM	72119	Other Traveler Accommodation
+438	Resorts	NM	72119	Other Traveler Accommodation
+439	Tourist Information and Services	NM	5615	Travel Arrangement and Reservation Services
+440	Travel Agents and Tour Operators	CR	56152	Tour Operators
+2	Automotive	
+3	Car Appraisers	
+18	Salvage Yards	
+108	Buildings and Structures	
+177	Services and Supplies	
+185	Refrigeration and Ice	
+205	Art Restoration	
+210	Corporate HQ	
+217	Events and Event Planning	
+222	Business Brokers and Franchises	
+226	Fund Raising	
+308	Social	
